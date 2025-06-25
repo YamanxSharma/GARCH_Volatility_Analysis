@@ -76,8 +76,8 @@ To reproduce this analysis:
 
 ### Contact
 
-- **Gmail:** [Your Email Here](sharma.yamandinesh@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/yaman-sharma-164b68244)
+- **Gmail:** [sharma.yamandinesh@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/yaman-sharma-164b68244]
 
 ## License
 
